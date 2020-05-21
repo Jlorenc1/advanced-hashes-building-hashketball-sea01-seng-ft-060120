@@ -7,10 +7,10 @@ def game_hash {
     :players[ 
     { :player_name => "Alan Alderson",
       :number => 0,
-      :shoe =>
-      :points =>
-      :rebounds =>
-      :assists =>
+      :shoe => 16,
+      :points => 22,
+      :rebounds => 12,
+      :assists =>12,
       :steals =>
       :blocks =>
       :slam_dunks => },
