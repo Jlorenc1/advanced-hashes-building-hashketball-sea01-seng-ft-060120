@@ -1,7 +1,7 @@
 # Write your code here!
 
 def game_hash {
-  :home {
+  :home => {
     :team_namne => "Brooklyn Nets",
     :colors => ["Black", "White"],
     :players[ 
@@ -53,7 +53,7 @@ def game_hash {
     ]
   }
   
-  :away{
+  :away => {
     :team_namne => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
     :players[ 
