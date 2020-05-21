@@ -6,7 +6,7 @@ def game_hash {
     :colors => ["Black", "White"],
     :players[ 
     { :player_name => "Alan Alderson",
-      :number => "0"
+      :number => 0,
       :shoe =>
       :points =>
       :rebounds =>
