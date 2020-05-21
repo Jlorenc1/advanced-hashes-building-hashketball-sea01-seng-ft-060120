@@ -105,3 +105,4 @@ def game_hash {
     ]
   }
 }
+}
